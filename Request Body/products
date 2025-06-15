@@ -1,0 +1,26 @@
+Update
+{
+    "Request": "UPDATE",
+    "inventoryID": 7,
+    "product_name": "Rugby 200ml",
+    "product_quantity": 20,
+    "category": "Solvents",
+    "product_price": 89.50
+    
+}
+------------------------------
+
+Delete
+
+{
+    "Request" : "DELETE",
+    "inventoryID" : 7
+}
+
+-------------------------------
+
+Search
+{
+     "Request" : "DELETE",
+    "Keyword" : 7
+}
